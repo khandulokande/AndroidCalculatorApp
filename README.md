@@ -45,14 +45,16 @@ The Calculator class is designed to perform basic arithmetic operations such as 
 
 Here are some screenshots of the application in action:
 
-1. **Main Screen**
-   ![Calculator Main Screen](https://drive.google.com/file/d/1Hg_KKmc892ODY03XFFiqivMaPRtymN8U/view?usp=sharing)
+### 1. Main Screen
+   ![Calculator Main Screen](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3mszyj_n8qb40T0kN9gp0fkudTA1eXqLcv_Cg6xxXuGtPnQUuxm47WhkLNBV5AiLbdasjVw8U0ftyRBOtZRf_Azq8tgzO5_3ORPm-Jcf0-Md7irOb-VV_rutqqha_n_jUvXdkEYek6bGkMJZWJjhowslDnsh81Zvi6Svl2WzTGqMRikf8XnP48mFCvs2q/w256-h569/Screenshot_20240819_Main.jpg)
 
-2. **App Icon on Home Screen**
-   ![App Icon](https://drive.google.com/file/d/14eWf5SsULU96czpu_6-s2xmkc3-tg3Fq/view?usp=sharing)
+### 2. App Icon on Home Screen
+   ![App Icon](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2KZDUSDadRti7NcUo-UUE45TOO73_x3SlH9fuxfgG2ASjbBF82PKq9p5cY0yqlnVCQRGhGdyXMOmQWbBIT-eXPd5mBtbC-zlLxi9Gh5JkQY24w06V8YXJV_J2JqH7nC91Al-mNzOWcBOCqixxdSm6OSOfY7hYXdaxawqd7cXvnjFC6Fc3eCTGikiTit7z/w250-h522/Screenshot_20240819_Icon.jpg)
 
-3. **Calculator in Use**
-   ![Calculator Usage](https://drive.google.com/file/d/1S8POntj7OPxTSEYtheRX22douxm22-R4/view?usp=sharing)
+### 4. Calculator in Use
+   ![Calculator Usage](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxZsYsNkuajldOPSCbUgjXZtMIyDlnUMkmWocQ2PkfF3AFUnUDNalQMP8FusriLlpya_wGebUYnl0ONjWUdW3W5jsi5-0917vPYC2FF3MOWmwXqGtW6aGIZpemFo0ecxgTDvu-a-igQUMoyZqXMBrRe5MrqvoyCWeTfAMRoEm_bNOzHcTW-L9wC5Fpf1Aj/w256-h570/Screenshot_20240819_In_Use.jpg)
+
+
 
 ## How to Use
 

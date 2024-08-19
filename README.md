@@ -72,4 +72,4 @@ Download and Install APK from [here](https://drive.google.com/file/d/1bur1bE-LiN
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/khandulokande/AndroidCalculatorApp/tree/main/LICENSE) file for details.
